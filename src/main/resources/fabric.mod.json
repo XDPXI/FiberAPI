@@ -12,6 +12,10 @@
 			}
 		}
 	],
+	"contact": {
+		"sources": "https://github.com/XDPXI/FiberAPI",
+		"issues": "https://github.com/XDPXI/FiberAPI/issues"
+	},
 	"license": "Apache-2.0",
 	"icon": "assets/fiber-api/icon.png",
 	"environment": "*",
