@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "fiber-api",
 	"version": "${version}",
-	"name": "XD's Fiber API",
+	"name": "Fiber API",
 	"description": "FiberAPI is a lightweight Fabric API for XDPXI's mods, focusing on shared tools, compatibility, and performance.",
 	"authors": [
 		{
