@@ -1,7 +1,7 @@
 package dev.xdpxi.fiberapi;
 
-import dev.xdpxi.fiberapi.util.Test;
 import dev.xdpxi.fiberapi.util.Log;
+import dev.xdpxi.fiberapi.util.Test;
 import net.fabricmc.api.ModInitializer;
 
 public class Main implements ModInitializer {
@@ -11,8 +11,8 @@ public class Main implements ModInitializer {
     public void onInitialize() {
         Log.info("[FiberAPI/Main] - Initializing...");
 
-		Test.register();
+        Test.register();
 
-		Log.info("[FiberAPI/Main] - Initialized!");
+        Log.info("[FiberAPI/Main] - Initialized!");
     }
 }
