@@ -25,17 +25,14 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.16.9",
-		"minecraft": ">=1.21",
+		"minecraft": ">=1.21 <=1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"recommends": {
-		"xdlib": "*"
 	},
 	"custom": {
 		"modmenu": {
 			"links": {
-				"modmenu.modrinth": "https://modrinth.com/plugin/xdlib"
+				"modmenu.modrinth": "https://modrinth.com/plugin/fiber-api"
 			},
 			"badges": [ "library" ],
 			"update_checker": true
