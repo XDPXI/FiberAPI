@@ -16,7 +16,7 @@
     "sources": "https://github.com/XDPXI/FiberAPI",
     "issues": "https://github.com/XDPXI/FiberAPI/issues"
   },
-  "license": "Apache-2.0",
+  "license": "XD's MC License",
   "icon": "assets/fiber-api/icon.png",
   "environment": "*",
   "entrypoints": {
